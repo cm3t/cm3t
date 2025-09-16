@@ -3,4 +3,8 @@ I'm a student in the UK, making projects in my free time!
 I currently work on Zen!
 ![My Project Euler Profile](https://projecteuler.net/profile/cm3t.png)
 ## My Languages
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg'/>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
+    </a>
+</p> 
