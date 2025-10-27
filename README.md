@@ -1,4 +1,4 @@
-## ✨ Hi! I'm Comet
+## ✨ Hi! I'm Til
 I'm a student in the UK, making projects in my free time!
 I currently work on Zen!
 
