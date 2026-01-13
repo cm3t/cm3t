@@ -1,8 +1,6 @@
 ## ✨ Hi! I'm Til
 I'm a student in the UK, making projects in my free time!
-I currently work on Zen!
-
-![My Project Euler Profile](https://projecteuler.net/profile/cm3t.png)
+I currently work on stuff...
 
 ## My Languages
 <p align="left">
