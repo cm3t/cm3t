@@ -8,6 +8,6 @@ I currently work on stuff...
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> 
     </a>
     <a href="https://www.luau.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Luau" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/sleepytil/sleepytil.github.io/cc19393270a4dad78b11d96f8c7e97e91fd83e94/images/luau-original.svg" alt="Luau" width="40" height="40" /> 
     </a>
 </p> 
