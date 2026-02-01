@@ -1,8 +1,9 @@
-## ✨ Hi! I'm Til
+# ✨ Hi! I'm Til
 I'm a student in the UK, making projects in my free time!
 I currently work on stuff...
 
-## My Languages
+# Skills
+### Programming Languages
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> 
