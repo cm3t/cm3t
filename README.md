@@ -1,5 +1,8 @@
 <div align="center" style="text-align: center;">
+<h1>@sleepytil</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Azeret+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Student;Learning+every+day)](https://git.io/typing-svg)
+
 # Skills
 ### Programming Languages
 <p align="left">
