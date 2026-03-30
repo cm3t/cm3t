@@ -1,7 +1,4 @@
-# ✨ Hi! I'm Til
-I'm a student in the UK, making projects in my free time!
-I currently work on stuff...
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Azeret+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Student;Learning+every+day)](https://git.io/typing-svg)
 # Skills
 ### Programming Languages
 <p align="left">
