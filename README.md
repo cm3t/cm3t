@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Azeret+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Student;Learning+every+day)](https://git.io/typing-svg)
 
+# About Me
+Hi, I'm a 14-year-old student who aspires to create brilliant projects for you to use, such as Zen.
+
 # Skills
 ### Programming Languages
 <p align="center">
