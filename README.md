@@ -5,6 +5,7 @@
 
 # About Me
 Hi, I'm a 14-year-old student who aspires to create brilliant projects for you to use, such as Zen.
+I use a Mac mini `(M4, 2024)`.
 
 # Skills
 ### Programming Languages
